@@ -1,6 +1,4 @@
-To reproduce the results in the paper; you need to download the databases from
-http://mahnob-db.eu/hci-tagging
-and
+To reproduce the results you need to download the databases from
 http://www.eecs.qmul.ac.uk/mmv/datasets/deap/
 
 You will have to also donwload libsvm
